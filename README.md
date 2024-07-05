@@ -31,7 +31,7 @@ The mission of this e-library application is to provide a user-friendly platform
     - The platform keeps track of loan transactions, including loan dates, due dates, and return dates.
     - Users can place holds on books that are currently unavailable.
     - The library maintains a hold queue, and when a book becomes available, it can be borrowed by the customer at the front of the queue. Additionally, if a customer doesn't borrow a held book within one week,  the book is released for other users to borrow. 
-    - Users can only hold 2 books at the same time
+    - Users can only hold 2 books at the same time.
 
 
 # Technical Requirements
@@ -39,10 +39,15 @@ The mission of this e-library application is to provide a user-friendly platform
 * Programming Language: Python
 
 
-# ERD DIAGRAM
+# ERD Diagram
 ![](https://github.com/astoadhi/Digital-database-for-library/blob/main/ERD/ERD.png)
 
 # Implementing the Database
 
-After creating the ERD, implement the ERD results into the database using PostgreSQL and Data Definition Language (DDL). This [FILE](https://github.com/astoadhi/Digital-database-for-library/blob/main/postgreSQL/DDL.sql) is the syntax for this project
+After creating the ERD, implement the ERD results into the database using PostgreSQL and Data Definition Language (DDL). This [FILE](https://github.com/astoadhi/Digital-database-for-library/blob/main/postgreSQL/DDL.sql) is the syntax for making the database or you can go to postgreSQL folder and click the DDL file.
+
+# Generating Dummy Datasets
+
+This project using python for the programming language. In generating dummy datasets, this project use libraries such as 'faker','pandas','datetime',and 'random'. You can use this LINK (https://github.com/astoadhi/Digital-database-for-library/blob/main/Python/Generate%20Dummy%20Data.py) for see the script or you can go to Python Folder and click the Generate Dummy Data.py
+
 
