@@ -1,9 +1,8 @@
 # Digital-database-for-library
-Libraries have traditionally been stores of knowledge, promoting study and cultural exchange. Traditionally, libraries used physical catalogs, frequently in card form, to manage their collections. These catalogs required painstaking manual updating and had restricted search capabilities. As technology advanced, the need for a more efficient and comprehensive method to manage library resources became clear. 
+This project aims to design and implement a digital database for a library, migrating its collection from physical books to digital formats. The goal is to create a robust and scalable database that can store, organize, and retrieve digital content, providing features for searching, browsing, and accessing the digital materials.
 
-Library databases were developed in the mid-twentieth century, coinciding with the emergence of computer technology. Early library databases were frequently mainframe-based and exclusively accessible to librarians. However, with the introduction of personal computers and the internet, library databases became more user-friendly and available to the general public.
+# Database Objectives
 
-## Database Objectives
 1.	Design a relational database for a library management system. The application oversees multiple libraries, each hosting a diverse collection of books with varying quantities available for borrowing. Users can borrow or place holds on books (when the book is not immediately available for borrowing). 
 2.	Populate the database with dummy data, to check if the database good or not. 
 3.	Retrieve data to answer specific questions about the library's collection and circulation.
