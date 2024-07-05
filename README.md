@@ -20,14 +20,17 @@ The mission of this e-library application is to provide a user-friendly platform
 2. **Book Collection:**
     - Store information about books, including titles, authors, genres, and copies available for borrowing.
     - Books should be categorized for easier searching (e.g., self-help, biography, fantasy, romance, historical).
-3. **Member Data:**
-    - Store member information, allowing them to add their card(s) to the app.
-    - Registered members should be able to borrow books, place holds, and manage their shelves.
+3. **User Registration:**
+    - Users can register on the e-library platform.
+    - Registered users can interact with the platform by borrowing books, placing holds, and managing their account.
 4. **Loan and Hold System:**
-    - Track borrowing transactions, including loan dates, due dates, and return dates.
-    - Implement a loan period of 2 weeks, with automatic return of books after the due date.
-    - Allow members to borrow up to 2 books at a time.
-    - Enable members to place holds on books that are currently unavailable.
-    - Maintain a hold queue and release held books if not borrowed within one week.
-    - Members can hold up to 2 books at a time.
+    - Users can borrow books from any library in this application if the book is available. 
+    - The loan period is 2 weeks. Users can return books earlier than the due date
+    - Books will be automatically returned when they exceed the due date
+    - Users can only borrow 2 books at a time
+    - The platform keeps track of loan transactions, including loan dates, due dates, and return dates.
+    - Users can place holds on books that are currently unavailable.
+    - The library maintains a hold queue, and when a book becomes available, it can be borrowed by the customer at the front of the queue. Additionally, if a customer doesn't borrow a held book within one week,  the book is released for other users to borrow. 
+    - Users can only hold 2 books at the same time
+
 
