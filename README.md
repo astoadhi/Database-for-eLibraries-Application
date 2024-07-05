@@ -44,10 +44,10 @@ The mission of this e-library application is to provide a user-friendly platform
 
 # Implementing the Database
 
-After creating the ERD, implement the ERD results into the database using PostgreSQL and Data Definition Language (DDL). This [FILE](https://github.com/astoadhi/Digital-database-for-library/blob/main/postgreSQL/DDL.sql) is the syntax for making the database or you can go to postgreSQL(postgreSQL) folder and click the DDL file.
+After creating the ERD, implement the ERD results into the database using PostgreSQL and Data Definition Language (DDL). This [FILE](https://github.com/astoadhi/Digital-database-for-library/blob/main/postgreSQL/DDL.sql) is the syntax for making the database or you can go to [postgreSQL](postgreSQL) folder and click the DDL file.
 
 # Generating Dummy Datasets
 
-This project using python for the programming language. In generating dummy datasets, this project use libraries such as 'faker','pandas','datetime',and 'random'. You can use this [LINK](https://github.com/astoadhi/Digital-database-for-library/blob/main/Python/Generate%20Dummy%20Data.py) for see the script or you can go to Python(Python) Folder and click the Generate Dummy Data.py
+This project using python for the programming language. In generating dummy datasets, this project use libraries such as 'Faker','Pandas','datetime',and 'random'. You can use this [LINK](https://github.com/astoadhi/Digital-database-for-library/blob/main/Python/Generate%20Dummy%20Data.py) for see the script or you can go to [Python](Python) Folder and click the Generate Dummy Data.py
 
 
