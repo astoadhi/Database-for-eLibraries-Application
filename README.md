@@ -35,6 +35,6 @@ The mission of this e-library application is to provide a user-friendly platform
 
 
 # Technical Requirements
-    - Database: MySQL or PostgreSQL
-    - Programming Language: Python or JavaScript
+* Database: PostgreSQL
+* Programming Language: Python
 
