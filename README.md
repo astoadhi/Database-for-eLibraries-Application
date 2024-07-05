@@ -48,6 +48,6 @@ After creating the ERD, implement the ERD results into the database using Postgr
 
 # Generating Dummy Datasets
 
-This project using python for the programming language. In generating dummy datasets, this project use libraries such as 'faker','pandas','datetime',and 'random'. You can use this ![LINK] (https://github.com/astoadhi/Digital-database-for-library/blob/main/Python/Generate%20Dummy%20Data.py) for see the script or you can go to Python Folder and click the Generate Dummy Data.py
+This project using python for the programming language. In generating dummy datasets, this project use libraries such as 'faker','pandas','datetime',and 'random'. You can use this [LINK] (https://github.com/astoadhi/Digital-database-for-library/blob/main/Python/Generate%20Dummy%20Data.py) for see the script or you can go to Python Folder and click the Generate Dummy Data.py
 
 
