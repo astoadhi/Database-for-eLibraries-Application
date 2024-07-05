@@ -34,3 +34,7 @@ The mission of this e-library application is to provide a user-friendly platform
     - Users can only hold 2 books at the same time
 
 
+# Technical Requirements
+    - Database: MySQL or PostgreSQL
+    - Programming Language: Python or JavaScript
+
