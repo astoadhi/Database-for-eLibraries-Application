@@ -38,3 +38,7 @@ The mission of this e-library application is to provide a user-friendly platform
 * Database: PostgreSQL
 * Programming Language: Python
 
+
+# ERD DIAGRAM
+![](https://github.com/astoadhi/Digital-database-for-library/blob/main/ERD.png)
+
