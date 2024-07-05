@@ -42,3 +42,7 @@ The mission of this e-library application is to provide a user-friendly platform
 # ERD DIAGRAM
 ![](https://github.com/astoadhi/Digital-database-for-library/blob/main/ERD/ERD.png)
 
+# Implementing the Database
+
+After creating the ERD, implement the ERD results into the database using PostgreSQL and Data Definition Language (DDL). this [file](https://github.com/astoadhi/Digital-database-for-library/blob/main/postgreSQL/DDL.sql) is the syntax for this project
+
