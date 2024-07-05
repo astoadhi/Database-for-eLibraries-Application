@@ -40,5 +40,5 @@ The mission of this e-library application is to provide a user-friendly platform
 
 
 # ERD DIAGRAM
-![](https://github.com/astoadhi/Digital-database-for-library/blob/main/ERD.png)
+![]([https://github.com/astoadhi/Digital-database-for-library/blob/main/ERD.png](https://github.com/astoadhi/Digital-database-for-library/blob/main/ERD/ERD.png))
 
