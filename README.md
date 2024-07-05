@@ -1,5 +1,5 @@
-# Digital-database-for-library
-This project aims to design and implement a digital database for a library, migrating its collection from physical books to digital formats. The goal is to create a robust and scalable database that can store, organize, and retrieve digital content, providing features for searching, browsing, and accessing the digital materials.
+# Digital-database-for-libraries
+This project aims to design and implement a digital database for libraries, migrating its collection from physical books to digital formats. The goal is to create a robust and scalable database that can store, organize, and retrieve digital content, providing features for searching, browsing, and accessing the digital materials.
 
 
 # Database Objectives
