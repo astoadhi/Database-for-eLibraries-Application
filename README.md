@@ -11,3 +11,23 @@ This project aims to design and implement a digital database for a library, migr
 
 # Mission Statement 
 The mission of this e-library application is to provide a user-friendly platform for managing multiple libraries, storing book information, and facilitating user registration, loan, and hold systems, while ensuring efficient tracking and management of book collections and user interactions.
+
+
+# Business Rule
+
+1. **Manage Multiple Libraries:**
+    - The system should handle data for multiple libraries, each with its own collection of books.
+2. **Book Collection:**
+    - Store information about books, including titles, authors, genres, and copies available for borrowing.
+    - Books should be categorized for easier searching (e.g., self-help, biography, fantasy, romance, historical).
+3. **Member Data:**
+    - Store member information, allowing them to add their card(s) to the app.
+    - Registered members should be able to borrow books, place holds, and manage their shelves.
+4. **Loan and Hold System:**
+    - Track borrowing transactions, including loan dates, due dates, and return dates.
+    - Implement a loan period of 2 weeks, with automatic return of books after the due date.
+    - Allow members to borrow up to 2 books at a time.
+    - Enable members to place holds on books that are currently unavailable.
+    - Maintain a hold queue and release held books if not borrowed within one week.
+    - Members can hold up to 2 books at a time.
+
