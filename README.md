@@ -1,5 +1,5 @@
 # Database for e-Libraries Application
-This project aims to design and implement a digital database for libraries, migrating its collection from physical books to digital formats. The goal is to create a robust and scalable database that can store, organize, and retrieve digital content, providing features for searching, browsing, and accessing the digital materials.
+This project aims to design and implement a digital database for libraries, migrating its collection from physical books to digital formats. The goal is to create a robust and scalable database that can store, organize, and retrieve digital content, providing features for searching, browsing, and accessing the digital materials. You can read my [Medium Article](https://medium.com/@asto.adhinugroho/from-books-to-bytes-migrating-your-library-to-a-digital-database-0f08ae5b5a69) if you interested to this project
 
 
 # Database Objectives
