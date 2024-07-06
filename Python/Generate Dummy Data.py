@@ -19,15 +19,6 @@ categories = ['Romance','Fantasy','Science Fiction (Sci-Fi)','Horror','Mystery',
 # Generate dummy data for each table
 
 def generate_user_data(num_users):
-    """
-    Create a DataFrame for members.
-
-    Parameters:
-    - num_members (int): Number of members to generate.
-
-    Returns:
-    - pd.DataFrame: DataFrame containing member information such as member_id and member_name.
-    """
     users = []
     for _ in range(num_users):
         users.append({
